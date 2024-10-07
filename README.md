@@ -10,7 +10,7 @@ CubeBlock Bot is a powerful, customizable Discord bot designed for community man
 - **CubeCraft Statistics View**: Display cubecraft's statistics right in discord.
 - **YouTube Content Integration**: Fetch and notify users of new YouTube uploads.
 
-## 🧭 Installation
+## 🚀 Getting Started
 
 1. **Clone the repository**:
    ```bash
@@ -68,7 +68,7 @@ CubeBlock Bot is a powerful, customizable Discord bot designed for community man
 2. **Bot Commands**:
    The bot offers a range of commands for moderation, content integration, and more. Use `/help` to get a list of available commands.
 
-## 💪 Contributing
+## ⭐ Contributing
 
 Contributions are welcome! To contribute:
 
@@ -78,7 +78,7 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## 🪪 License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
