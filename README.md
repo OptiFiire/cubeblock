@@ -1,15 +1,16 @@
-# CubeBlock Bot
+# 🧊 CubeBlock Bot
 
 CubeBlock Bot is a powerful, customizable Discord bot designed for community management, moderation, and content integration. It offers a variety of features such as handling bans, temporary sessions, cooldowns, and content uploads.
 
-## Features
+## 🔥 Features
 
 - **Moderation**: Handle temporary and permanent bans.
 - **Session Management**: Automatically end and track user sessions.
 - **Cooldown Management**: Keep track of expired cooldowns.
+- **CubeCraft Statistics View**: Display cubecraft's statistics right in discord.
 - **YouTube Content Integration**: Fetch and notify users of new YouTube uploads.
 
-## Installation
+## 🧭 Installation
 
 1. **Clone the repository**:
    ```bash
@@ -55,7 +56,7 @@ CubeBlock Bot is a powerful, customizable Discord bot designed for community man
       mkdir databases
       ```
 
-## Usage
+## 🔰 Usage
 
 1. **Start the bot**:
    ```bash
@@ -67,7 +68,7 @@ CubeBlock Bot is a powerful, customizable Discord bot designed for community man
 2. **Bot Commands**:
    The bot offers a range of commands for moderation, content integration, and more. Use `/help` to get a list of available commands.
 
-## Contributing
+## 💪 Contributing
 
 Contributions are welcome! To contribute:
 
@@ -77,10 +78,10 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
+## 🪪 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Issues
+## ⚠️ Issues
 
 If you encounter any issues, feel free to open an issue on the [GitHub Issues](https://github.com/OptiFiire/cubeblock/issues) page.
