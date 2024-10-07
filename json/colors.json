@@ -1,0 +1,9 @@
+{
+    "default": "#3ba9ff",
+    "warn": "#fbd100",
+    "wait": "#e38e17",
+    "success": "#74d83a",
+    "failure": "#d50024",
+    "invisible": "#36393F",
+    "cancel": "#6781b8"
+}
